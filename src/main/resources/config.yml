@@ -1,0 +1,9 @@
+currencies:
+  gems:
+    singular: Gem
+    plural: Gems
+    defaultValue: 100
+  tokens:
+    singular: Token
+    plural: Tokens
+    defaultValue: 0
