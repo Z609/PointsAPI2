@@ -14,7 +14,6 @@ Why choose this plugin over others?
 FULL SUPPORT AND DOCUMENTATION: https://www.z609.me/threads/pointsapi2.7/
 
 Permissions:
-- Unlimited points | points.unlimited, points.*, or OP
 - /points | points.points, points.*, or OP
 
 Commands:
